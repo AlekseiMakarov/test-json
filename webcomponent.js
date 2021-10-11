@@ -104,6 +104,6 @@
 	}
 };
  
-customElements.define("com-sap-sample-template", test);
+customElements.define("com-sap-sample-template", TESTJSON);
  
 })();
